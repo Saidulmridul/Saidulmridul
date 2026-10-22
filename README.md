@@ -91,6 +91,8 @@ Developed an Excel-based dashboard to analyze purchase and shipping data, visual
 
 -Aspire Leaders Program — Aspire Institute
 
+-Excel Basics for Data Analysis — IBM
+
 I continue to develop my skills in supply chain management, data analytics, and operations research through coursework and practical projects.
 
 ## 🤝 Connect With Me
@@ -98,6 +100,5 @@ I continue to develop my skills in supply chain management, data analytics, and 
 - 🌐 **Portfolio:** [Explore My Work](https://saidulmridul.github.io/portfolio-SaidulMridul/)
 - 💼 **LinkedIn:** [Md. Saidul Islam Mridul](https://linkedin.com/in/md-saidul-islam-mridul)
 - 📧 Email: mridul.ruetipe21@gmail.com
-- 📱 Phone: +880 1632206191
 - 🧑‍💻 **GitHub:** [Saidulmridul](https://github.com/Saidulmridul)
 
